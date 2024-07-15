@@ -1,0 +1,12 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: vardana;
+    margin-top: 50px;
+    font-style: italic;
+}
+p{
+    font-size: 40px;
+    text-align: right;
+    margin-right: 50px;
+}
